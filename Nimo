@@ -11,3 +11,6 @@ https://al.flv.nimo.tv/backsrc/su1599517945184r9eb90a24c7925ad5a2752464200ef042.
 
 #EXTINF:-1 group-title="DP@BRILIGA1", PMGC
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1638377199/ei/j1KnYe_9B-6H3LUPjP6NQA/ip/103.141.255.129/id/Kfrq-33Bvzc.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgeeDSJ9p_G_8TtGXAvbVNaYRZbOewcMSk_tw-C_GwRvACIDgkh41AZiZ6zASDtkcbMGy_tcaRIldugbWwIC1bTQ2X/file/index.m3u8
+
+#EXTINF:-1 group-title="DP@BRILIGA1", MIMIN HELMET
+https://ws.flv.nimo.tv/backsrc/su1639514576368r67c6e2239f1b0ea18fa60772f4848d69.flv?appid=81&tp=1638356037871&ratio=2000&needwm=1&sphd=1&u=0&t=100&sv=2110081723
