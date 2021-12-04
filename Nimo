@@ -47,3 +47,6 @@ https://tx.flv.nimo.tv/backsrc/su2239511666854rcf95524ab7ff3634028106b974db3293.
 
 #EXTINF:-1 group-title="DP@BRILIGA1", PMGC
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1638377199/ei/j1KnYe_9B-6H3LUPjP6NQA/ip/103.141.255.129/id/Kfrq-33Bvzc.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgeeDSJ9p_G_8TtGXAvbVNaYRZbOewcMSk_tw-C_GwRvACIDgkh41AZiZ6zASDtkcbMGy_tcaRIldugbWwIC1bTQ2X/file/index.m3u8
+
+#EXTINF:-1 group-title="Chelsea VS Wesham", PMGC
+https://manifest-gce-us-east4-production.cfcdn.mux.com/Fa1vgbg2p4DD01RbhLL6oZSybANOs3pqPEqvgDIDX8CFVUkw7bIsfPzwBPlu6fy9qi1w3fUKh7RG4bDrPZzE8ngb4RWQwbNY2/rendition.m3u8?cdn=cloudflare&exclude_pdt=false&expires=1639224000&live=1&skid=default&signature=NjFiNDkyYzBfZjZhOTE4YTcyMmY2OWJmZDgwMjdjNGQzNjk5YmY2OGJlZWQ1Yjk5YjBhMmMyODk1NWY4MzIyOGJhMTM2ZDRhZA==
