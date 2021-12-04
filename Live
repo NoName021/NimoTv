@@ -50,3 +50,6 @@ http://cdn1.cyclingnews.live/hls/M1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDI
 
 #EXTINF:-1 group-title="BOLA", YALLASHOOT
 https://d22qx226t06pmw.cloudfront.net/out/v1/7f5f87c1a8374727b802816807a48ae3/index_1.m3u8?from=other&vsid=9a5ade42398546b04c0727934f80a3ffc9ed1f698980xWEBx0005x1638633663&adsid=46d3b13311d7caca4077c588dc51812ff666eb1a8230xWEBx0005x1638633663&t=1638633730034
+
+#EXTINF:-1 group-title="BOLA", YALLASHOOT 2
+https://d2820bmza77oyr.cloudfront.net/out/v1/3dc95667c2734508b9988eeeaf479ae0/index_1.m3u8?t=1638639679259
