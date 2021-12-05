@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="DP@BRILIGA1", AFF 720p
+https://production-drm-vidio-com-event-14.akamaized.net/out/v1/09512cea3f624721bd5fe9c091abb452/index.m3u8
+
 #EXTINF:-1 group-title="DP@BRILIGA1", SKY 720p
 https://tx.flv.nimo.tv/backsrc/su1599512268262rd67810d715a5bc342a615fda4d5d62c3.flv?appid=81&tp=1638444507825&ratio=2000&needwm=1&sphd=1&u=0&t=100&sv=2110081723
 
