@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="BOLA", ENGLISH
-https://wowzaprdwnq-lh.akamaihd.net/i/999c07d9_1@789438/master.m3u8
+#EXTINF:-1 group-title="NIMOTV", VIVI
+https://al.flv.nimo.tv/live/su1639514047993rbd09ab729cd215b5fcd44b16beab226f.flv?appid=81&tp=1638847845224&ratio=2000&needwm=1&u=0&t=100&sv=2110081723
 
 #EXTINF:-1 group-title="BOLA", YALLA
 https://d2ki8f1htc5jvo.cloudfront.net/out/v1/47b05df905ff41c3bf6d139efe267b5b/index_1.m3u8?from=other&vsid=b9b621f5d17aaa8cce7f6c638f056a96f221ac10cce8xWEBx0005x1638713415&adsid=e71e10ed816f593932bc2f2acb12659f225534801403xWEBx0005x1638713415&t=1638713453784&abd=1
