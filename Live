@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="NIMOTV", MU
+https://d10nbk66ckd93y.cloudfront.net/hls/bt/chunks.m3u8
+
 #EXTINF:-1 group-title="NIMOTV", KAYES
 https://tx.flv.nimo.tv/backsrc/su1599517766432rc8c02debe7d4b3dcb70f655ec79b0f95.flv?appid=81&tp=1639581724100&ratio=2000&needwm=1&sphd=1&u=0&t=100&sv=2110081723
 
