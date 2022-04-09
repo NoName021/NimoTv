@@ -6,6 +6,12 @@ https://video-weaver.sin01.hls.ttvnw.net/v1/playlist/CosFRpbIvhoww2xatEcT65Bok1w
 #EXTINF:-1 group-title="NIMOTV", KAYES
 https://tx.flv.nimo.tv/backsrc/su1599517766432rc8c02debe7d4b3dcb70f655ec79b0f95.flv?appid=81&tp=1639581724100&ratio=2000&needwm=1&sphd=1&u=0&t=100&sv=2110081723
 
+#EXTINF:-1 group-title="NIMOTV", MICROBOY 720P
+https://al.flv.nimo.tv/backsrc/su1629525219659ra3f015c454bc2d42c1c2b774b3343d71.flv?wsSecret=f2e741ce6f02d5b7e20a14fe0136ff7a&wsTime=625153fa&seqid=3289016683412&ctype=&ver=1&fs=gctex&ratio=2000&&wsiphost=ipdbme&u=413675508&t=100&sv=2204081430
+
+#EXTINF:-1 group-title="NIMOTV", MICROBOY 1080P
+https://al.flv.nimo.tv/backsrc/su1629525219659ra3f015c454bc2d42c1c2b774b3343d71.flv?wsSecret=bca20f3d67b7376c27aec840f7c6ce0c&wsTime=625153b2&seqid=3289016610736&ctype=&ver=1&fs=gctex&&wsiphost=ipdbme&u=413675508&t=100&sv=2204081430
+
 #EXTINF:-1 group-title="NIMOTV", ZUXXY
 https://ws.flv.nimo.tv/backsrc/su1599517238586r039834206f9265179732e95703525461.flv?appid=81&tp=1639582076053&ratio=2000&needwm=1&sphd=1&u=0&t=100&sv=2110081723
 
